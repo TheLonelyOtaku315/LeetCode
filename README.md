@@ -51,3 +51,19 @@ Feedback is welcome! If you have suggestions or questions, please create an issu
 
 Happy coding!
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0013-roman-to-integer) |
+<!---LeetCode Topics End-->

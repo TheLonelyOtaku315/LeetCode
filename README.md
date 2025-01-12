@@ -74,6 +74,7 @@ Happy coding!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Trie
 |  |
 | ------- |
@@ -82,4 +83,8 @@ Happy coding!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->

@@ -75,6 +75,7 @@ Happy coding!
 | ------- |
 | [0001-two-sum](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0027-remove-element) |
 ## Trie
 |  |
 | ------- |
@@ -87,4 +88,5 @@ Happy coding!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->

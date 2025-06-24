@@ -82,6 +82,7 @@ Happy coding!
 | [0035-search-insert-position](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## Trie
 |  |
 | ------- |
@@ -108,4 +109,5 @@ Happy coding!
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->

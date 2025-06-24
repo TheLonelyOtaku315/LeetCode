@@ -1,7 +1,7 @@
 class Solution {
     public List<Integer> getRow(int rowIndex) {
-        int count = 0;
-        while (count == 1000) {
+        float count = 0;
+        while (count == 100000) {
             count++;
         }
         List<List<Integer>> answer = new ArrayList<>();

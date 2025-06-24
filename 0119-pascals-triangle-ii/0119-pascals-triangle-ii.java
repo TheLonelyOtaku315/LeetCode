@@ -1,9 +1,5 @@
 class Solution {
     public List<Integer> getRow(int rowIndex) {
-        float count = 0;
-        while (count == 100000000) {
-            count++;
-        }
         List<List<Integer>> answer = new ArrayList<>();
 
         for (int i = 0; i <= rowIndex; i++) {

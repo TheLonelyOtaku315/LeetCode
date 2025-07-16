@@ -110,4 +110,12 @@ Happy coding!
 | ------- |
 | [0118-pascals-triangle](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0119-pascals-triangle-ii) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/TheLonelyOtaku315/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
